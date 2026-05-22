@@ -1,8 +1,7 @@
 Hero FinCorp Python Assignment - Portfolio Analysis
 
 Repository Link:
-[Insert your GitHub repository link here]
-(e.g., https://github.com/yourusername/herovired-python-assignment)
+https://github.com/kumkumwebkim/Herovired-python-Assignment.git
 
 This repository contains:
 1. README.md: Project overview and technologies.
