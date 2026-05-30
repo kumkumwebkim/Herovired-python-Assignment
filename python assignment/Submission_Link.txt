@@ -1,0 +1,14 @@
+Hero FinCorp Python Assignment - Portfolio Analysis
+
+Repository Link:
+https://github.com/kumkumwebkim/Herovired-python-Assignment.git
+
+This repository contains:
+1. README.md: Project overview and technologies.
+2. python Assignment cover all task 1-20.ipynb: Detailed analysis covering 20 tasks.
+3. Hero_Fincorp by own.ipynb: Supplementary insights.
+4. Dataset/: All raw data files used for analysis.
+5. Final_Assignment_Report.html: Exported final results.
+
+Submitted via: Vlearn
+Date: 2026-04-13
